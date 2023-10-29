@@ -1,0 +1,30 @@
+Model: Random Forest
+Cross-Validation Mean Absolute Error: 13.316858343824853
+Cross-Validation Mean Squared Error: 42443.72416830331
+Cross-Validation Root Mean Squared Error: 206.01874712827305
+Cross-Validation R-squared: 0.9449770777248616
+----------------------------------------
+Model: Linear Regression
+Cross-Validation Mean Absolute Error: 63.4449238239543
+Cross-Validation Mean Squared Error: 122922.48678761802
+Cross-Validation Root Mean Squared Error: 350.60303305536024
+Cross-Validation R-squared: 0.8406465368222138
+----------------------------------------
+Model: Decision Tree
+Cross-Validation Mean Absolute Error: 13.434662756644016
+Cross-Validation Mean Squared Error: 62630.57352075926
+Cross-Validation Root Mean Squared Error: 250.26101078825533
+Cross-Validation R-squared: 0.9188073797385193
+----------------------------------------
+Model: Neural Network
+Cross-Validation Mean Absolute Error: 27.339350789760605
+Cross-Validation Mean Squared Error: 14696.439556330426
+Cross-Validation Root Mean Squared Error: 121.22887261840896
+Cross-Validation R-squared: 0.9816578777467412
+----------------------------------------
+Model: Stacked Model
+Cross-Validation Mean Absolute Error: 54.21185589974255
+Cross-Validation Mean Squared Error: 135812.02386338756
+Cross-Validation Root Mean Squared Error: 368.5268292314517
+Cross-Validation R-squared: 0.8239368816121693
+----------------------------------------
